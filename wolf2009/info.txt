@@ -12,3 +12,8 @@ Wolfenstein 2009 — українізатор
        Перевстановіть українізатор, або скопіюйте файл wolf.cfg (https://www.mediafire.com/file/6k94r2kwl241b4s/wolf.cfg/file) до AppData\Local\id Software\WolfSP\base й підтвердіть заміну.
  - У грі кацапська(чи інша) мова:
        Запустіть гру з ярлика WolfUkr на стільниці, або додайте у параметри запуску +set sys_lang english | https://ibb.co/qpYnK3V
+
+
+
+
+Останнє оновлення: 13.07.2023
